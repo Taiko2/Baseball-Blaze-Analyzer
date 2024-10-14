@@ -22,7 +22,7 @@ pip install -r requirements.txt
 1. Clone the repository and navigate to the project directory:
 
 ```sh
-git clone  
+git clone https://github.com/Taiko2/Baseball-Blaze-Analyzer.git
 cd BlazePose-Baseball-Analyzer
 ```
 
